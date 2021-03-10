@@ -4,8 +4,8 @@ import styles from './layout.module.css'
 import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
-const name = 'Testing INtegration/Deployment to vercel'
-export const siteTitle = 'Next.js Sample Website'
+const name = 'DTS Ghost-cms Test'
+export const siteTitle = 'Next.js Integration with Ghost'
 
 export default function Layout({ children, home }) {
   return (
